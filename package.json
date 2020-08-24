@@ -1,0 +1,22 @@
+{
+  "name": "use-github-hosted-npm-module-example",
+  "version": "1.0.0",
+  "description": "use-github-hosted-npm-module-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@manikandn-m/my-small-npm-module": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseededucation/use-github-hosted-npm-module-example.git"
+  },
+  "author": "dev@xseededucation.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xseededucation/use-github-hosted-npm-module-example/issues"
+  },
+  "homepage": "https://github.com/xseededucation/use-github-hosted-npm-module-example#readme"
+}
